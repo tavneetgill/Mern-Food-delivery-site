@@ -3,7 +3,7 @@ import'./style.css';
 
 function Signup() {
     return (
-    <body>
+    <body className="test">
         <div className="main">
               	
             <input type="checkbox" id="chk" aria-hidden="true" />
